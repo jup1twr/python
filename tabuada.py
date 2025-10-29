@@ -1,6 +1,6 @@
 print("Olá! Vamos descobrir a tabuada?")
 print("===============================")
-num = int(input("Digite um número: "))
+num = ""
 print("===============================")
 
 print(f"A tabuada do {num} é: ")

@@ -9,7 +9,7 @@
 dia = input ("Qual é o dia da semana?").strip().lower()
 
 if dia == "sábado" or dia == "domingo" or dia == "sabado":
-    print("Fim de seman, descansa CLT!")
+    print("Fim de semana, descansa CLT!")
 elif dia == "segunda-feira" or dia == "segunda":
     print("Início da semana, chora CLT!")
 elif dia == "terça-feira" or dia == "terça" or dia == "quarta-feira" or dia == "quarta" or dia =="quinta-feira" or dia == "quinta":
